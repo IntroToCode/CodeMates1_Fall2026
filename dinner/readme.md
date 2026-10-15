@@ -72,4 +72,6 @@ Kebbeh bil Sanieh is the baked tray version of Lebanon's national dish, a bulgur
 
 <!-- Optional: substitutions, tips, variations, or personal notes about the recipe. -->
 
+You can pair this drink with Arak - It is anise flavored alcoholic drink popular in Lebanon and will go really well with the kebabs!
+
 ### Author(s): Karim Osman
