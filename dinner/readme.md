@@ -8,37 +8,37 @@ Kebbeh bil Sanieh is the baked tray version of Lebanon's national dish, a bulgur
 
 | Field | Info |
 |-------|------|
-| Prep Time | 45 minutes |
-| Cook Time | 45 minutes |
-| Total Time | 1 hour 30 minutes |
-| Servings | 8 as a main, 12 as part of a mezze spread |
+| Prep Time | 60 minutes |
+| Cook Time | 60 minutes |
+| Total Time | 2 hours |
+| Servings | 16 as a main, 24 as part of a mezze spread |
 | Difficulty | Medium |
 | Tags | Lebanese, Levantine, lamb, make-ahead, freezer-friendly, crowd-feeding, one-tray |
 
 ### Ingredients:
 
 **For the shell**
-- [ ] 500g fine bulgur (#1 grade)
-- [ ] 700g lean ground lamb, from leg or shoulder
-- [ ] 1 medium onion, quartered
-- [ ] 1.5 tsp ground allspice
-- [ ] 1 tsp ground cinnamon
-- [ ] 0.5 tsp black pepper
-- [ ] 2 tsp salt
-- [ ] 120ml ice water
+- [ ] 1000g fine bulgur (#1 grade)
+- [ ] 1400g lean ground lamb, from leg or shoulder
+- [ ] 2 medium onion, quartered
+- [ ] 3 tsp ground allspice
+- [ ] 2 tsp ground cinnamon
+- [ ] 1 tsp black pepper
+- [ ] 4 tsp salt
+- [ ] 240ml ice water
 
 **For the filling**
-- [ ] 400g ground lamb, roughly 20% fat
-- [ ] 2 medium onions, finely diced
-- [ ] 80g pine nuts
-- [ ] 3 tbsp ghee or clarified butter
-- [ ] 1 tsp ground allspice
-- [ ] 0.5 tsp ground cinnamon
-- [ ] 1 tsp salt
-- [ ] 2 tbsp pomegranate molasses
+- [ ] 800g ground lamb, roughly 20% fat
+- [ ] 4 medium onions, finely diced
+- [ ] 160g pine nuts
+- [ ] 6 tbsp ghee or clarified butter
+- [ ] 2 tsp ground allspice
+- [ ] 1 tsp ground cinnamon
+- [ ] 2 tsp salt
+- [ ] 4 tbsp pomegranate molasses
 
 **For the tray**
-- [ ] 80ml olive oil, for greasing and drizzling
+- [ ] 160ml olive oil, for greasing and drizzling
 
 ### Steps for preparation:
 
@@ -71,7 +71,5 @@ Kebbeh bil Sanieh is the baked tray version of Lebanon's national dish, a bulgur
 **Make ahead.** Assemble the full tray, cover it tightly, and refrigerate for up to 24 hours. Bake it straight from cold and add 10 minutes. It also freezes raw, well wrapped, for up to two months. Bake from frozen at 180C for about 70 minutes.
 
 <!-- Optional: substitutions, tips, variations, or personal notes about the recipe. -->
-
-You can pair this drink with Arak - It is anise flavored alcoholic drink popular in Lebanon and will go really well with the kebabs!
 
 ### Author(s): Karim Osman
