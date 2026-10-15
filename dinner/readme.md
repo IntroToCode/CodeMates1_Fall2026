@@ -73,3 +73,18 @@ Kebbeh bil Sanieh is the baked tray version of Lebanon's national dish, a bulgur
 <!-- Optional: substitutions, tips, variations, or personal notes about the recipe. -->
 
 ### Author(s): Karim Osman
+
+# Drink Pairings!
+
+**Jallab**
+This drink is a traditional Levantine fruit syrup drink made by diluting date molasses (or grape/carob molasses) and rose water with water, often infused with a wisp of Arabic incense, and served ice-cold.
+It can complement the dish a lot, because is non-alcoholic and brings a stronger flavor to the Kebbeh recipe.
+
+*Ingredients (Per Serving)*
+
+- Date molasses (dibs) or grape molasses: 3 tablespoons (about 45 ml)
+- Rose water: 1 teaspoon (or to taste)
+- Water (chilled): 1 cup (235 ml)
+- Crushed ice: As needed
+- Garnish: Toasted or soaked pine nuts and golden raisins (sultanas)
+- Optional smoky touch: A tiny whiff of natural Arabic incense (such as frankincense or myrrh) smoked inside the serving glass or pitcher
