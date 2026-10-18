@@ -16,6 +16,7 @@ It's from Ladle & Leaf on campus. And it's a warm, tasty and specially amazing d
 | Servings | 4 |
 | Difficulty | Easy |
 | Tags | vegetarian, gluten-free, soup, make-ahead |
+| Spicy | -
 
 ### Ingredients:
 
