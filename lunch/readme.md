@@ -4,6 +4,8 @@
 
 It's from Ladle & Leaf on campus. And it's a warm, tasty and specially amazing during Fall
 
+## Spice Level: - Not spicy, although it warms you with its temperature and comforting taste!
+
 ## Stats
 
 | Field | Info |
