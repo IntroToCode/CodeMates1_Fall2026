@@ -16,6 +16,7 @@
 | Servings | Up to 6 |
 | Difficulty | Easy |
 | Tags | Vegetarian, eggs, versatile, Tunisian |
+|Spicy| 🌶️
 
 <!-- Note the fields in the markdown table -->
 
