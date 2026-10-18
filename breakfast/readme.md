@@ -2,6 +2,8 @@
 
 ## Shakshuka is great, it's an egg dish where the eggs are poached in a savory tomato/pepper based sauce, with its origins in North African and the Middle Eastern cuisine. It's very versatile, vegetarian, and goes well on rice or with bread.
 
+## Spice Level: 🌶️ Generally not a spicy dish, but can be easily modified to suit personal preference.
+
 <!-- 1-2 sentences about the dish. Where does it come from? What makes it special? -->
 
 ## Stats
