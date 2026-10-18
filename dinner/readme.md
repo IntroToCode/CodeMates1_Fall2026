@@ -16,6 +16,7 @@ Kebbeh bil Sanieh is the baked tray version of Lebanon's national dish, a bulgur
 | Servings | 16 as a main, 24 as part of a mezze spread |
 | Difficulty | Medium |
 | Tags | Lebanese, Levantine, lamb, make-ahead, freezer-friendly, crowd-feeding, one-tray |
+| Spicy | -
 
 ### Ingredients:
 
