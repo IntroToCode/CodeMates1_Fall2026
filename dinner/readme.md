@@ -4,6 +4,8 @@
 
 Kebbeh bil Sanieh is the baked tray version of Lebanon's national dish, a bulgur and lamb shell layered over a spiced filling of onion and toasted pine nuts, scored into diamonds before it goes in the oven. The technique of pounding cracked wheat with meat in a stone mortar is an old Levantine village practice shared across Lebanon, Syria, and Iraq, and this tray form is what households made when they needed to feed a crowd from one pan rather than shaping dozens of individual torpedoes.
 
+## Spice Level: - Not spicy at all, focusing on the savory flavors dominating the dish.
+
 ## Stats
 
 | Field | Info |
@@ -14,6 +16,7 @@ Kebbeh bil Sanieh is the baked tray version of Lebanon's national dish, a bulgur
 | Servings | 16 as a main, 24 as part of a mezze spread |
 | Difficulty | Medium |
 | Tags | Lebanese, Levantine, lamb, make-ahead, freezer-friendly, crowd-feeding, one-tray |
+| Spicy | -
 
 ### Ingredients:
 
