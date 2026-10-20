@@ -76,28 +76,3 @@ Kebbeh bil Sanieh is the baked tray version of Lebanon's national dish, a bulgur
 <!-- Optional: substitutions, tips, variations, or personal notes about the recipe. -->
 
 ### Author(s): Karim Osman
-
-# Drink Pairings!
-
-**Arak (Alcoholic Option)**
-Arak is Lebanon’s signature spirit, a clear anise-flavored drink distilled from grapes. When water is added it turns milky white, which is why it is nicknamed “the milk of lions.” Its licorice-like aroma cuts through the richness of fried Kebbeh, so it is the classic choice for a traditional meal.
-Ingredients (Per Serving)
-	• Arak: 50 ml
-	• Water (chilled): 100 ml, roughly two parts water to one part arak
-	• Ice cubes: As needed
-	• Optional garnish: A small sprig of fresh mint
-Method
-	1. Pour the arak into a glass first.
-	2. Add the chilled water slowly and watch it turn cloudy.
-	3. Add ice last, then stir gently and serve right away.
-
-**Jallab (Non-Alcoholic Option)**
-This drink is a traditional Levantine fruit syrup drink made by diluting date molasses (or grape/carob molasses) and rose water with water, often infused with a wisp of Arabic incense, and served ice-cold. It complements the dish well because it is non-alcoholic and brings a stronger flavor to the Kebbeh recipe.
-Ingredients (Per Serving)
-	• Date molasses (dibs) or grape molasses: 3 tablespoons (about 45 ml)
-	• Rose water: 1 teaspoon (or to taste)
-	• Water (chilled): 1 cup (235 ml)
-	• Crushed ice: As needed
-	• Garnish: Toasted or soaked pine nuts and golden raisins (sultanas)
-	• Optional smoky touch: A tiny whiff of natural Arabic incense (such as frankincense or myrrh) smoked inside the serving glass or pitcher
-
